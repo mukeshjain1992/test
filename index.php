@@ -1,5 +1,1 @@
-<?php phpinfo();
-
-echo "string";
-
- ?>
+<a href="login.php">Login</a>
